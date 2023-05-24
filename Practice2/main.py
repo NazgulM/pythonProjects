@@ -1,0 +1,6 @@
+print((4>5) and (4==4))
+print(not (4<5) and (4==4))
+print(not (not (4<5) and (4==4)))
+print("Print True and False: ", True and False)
+print("Print True or False and False: ", True or False and False)
+print("Print True and False or False: ", True and False or False)
